@@ -1,0 +1,77 @@
+.main{
+    height: 100%;
+}
+.van-tabs--card>.van-tabs__wrap,.van-tabs__nav--card{
+    height: 40px !important;
+}
+.van-search{
+    background: none;
+    width: 79%;
+    margin-left: 30px;
+
+}
+.van-search__content{
+    border-radius: 8px;
+}
+.van-icon-search{
+    color: #3fa1ea;
+    font-weight: 700;
+    font-size: 20px !important;
+}
+
+
+.f20{
+	font-size: 20px;
+}
+.f18{
+	font-size: 18px;
+}
+.f16{
+	font-size: 16px;
+}
+.f14{
+	font-size: 14px;
+}
+.f12{
+	font-size: 12px;
+}
+.fw{
+	font-weight: 600;
+}
+.c0{
+	color: #fff;
+}
+.c3{
+	color: #333;
+}
+.c6{
+	color: #666;
+}
+.c9{
+	color: #999;
+}
+.flex-fl{
+	display: flex;
+	align-items: center;
+}
+.flex-bw{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.tc{
+    text-align: center;
+}
+.over-text{
+	 overflow:hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	-o-text-overflow:ellipsis;
+}
+.over-text2{
+	overflow: hidden;
+	text-overflow: ellipsis;
+	display: -webkit-box;
+    -webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+}
